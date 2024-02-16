@@ -1,0 +1,9 @@
+The Great Gatsby,F. Scott Fitzgerald,Fiction,10
+To Kill a Mockingbird,Harper Lee,Fiction,7
+1984,George Orwell,Science Fiction,10
+Pride and Prejudice,Jane Austen,Romance,10
+1920,Robin,Horror,23
+Me,Locky,Romance,12
+Hello,Rakesh,Language,15
+auth ,mew,gen,10
+abcd,sunny,child,20
